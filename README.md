@@ -1,1 +1,2 @@
-# BISC577-HW2
+#BISC 577A
+#Name: Shuo Li
